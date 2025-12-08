@@ -1,0 +1,98 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Plairfx'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'base16-eighties'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello'
+homeIntroContent = """
+Hi I am Plair,
+
+I am Smart Contract Enigneer.
+
+# Tech Stack
+
+- Solidity
+- Foundry
+- Golang (Learning)
+
+Feel free to contact me on any of the socials listed below.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Projects'
+homeCollection = 'projects'
+
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "x"
+url = "https://www.x.com/plairfx"
+
+
+[[params.social]]
+name = "github"
+url = "https://github.com/plairfx"
+
+[[params.social]]
+name = "telegram"
+url = "t.me/plairfx"
+
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

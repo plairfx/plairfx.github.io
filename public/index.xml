@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Plairfx</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Plairfx</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I started my web3 journey through Cyfrin Updraft, which first&#xA;started me by learning some javascript/solidity. This introducted me&#xA;to a concept i have not really seen which was auditing and getting money!&lt;/p&gt;&#xA;&lt;p&gt;While i understood the basics web3 security and gotten some basic findings in audit contests,&#xA;i never really enjoyed it/felt attracted doing it every single day.&lt;/p&gt;&#xA;&lt;p&gt;That finally changed  with choosing to go build things instead of auditing them.&#xA;Which brings me to this present moment building and learning with languages&#xA;such as Solidity, Golang which brings out something more&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
