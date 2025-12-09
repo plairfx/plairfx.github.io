@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://plairfx.github.io/'
 languageCode = 'en-us'
 title = 'Plairfx'
 theme = 'typo'
@@ -70,13 +70,6 @@ url = "t.me/plairfx"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
-name = "projects"
-url = "/projects"
 
 [[params.menu]]
 name = "about"
