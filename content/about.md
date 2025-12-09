@@ -25,7 +25,7 @@ such as Solidity, Golang which brings out something more...
 
 
 # Projects 
-Coming soon..
+Coming soon.
 
 
 # Hackathons
