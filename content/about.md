@@ -23,7 +23,6 @@ such as Solidity, Golang which brings out something more...
 - Viem/Wagmi
 - Golang
 
-
 # Projects 
 Coming soon.
 

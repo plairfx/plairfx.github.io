@@ -32,7 +32,7 @@
 
 <title>
     
-    EdenProtocol | Plairfx
+    EdensProtocol | Plairfx
     
 </title>
 
@@ -40,13 +40,15 @@
 
 <meta property="og:url" content="http://localhost:1313/projects/edenprotocol/">
   <meta property="og:site_name" content="Plairfx">
-  <meta property="og:title" content="EdenProtocol">
-  <meta property="og:description" content="Coming soon">
+  <meta property="og:title" content="EdensProtocol">
+  <meta property="og:description" content="Summary # Eden’s Protocol was a project based on Tornado Cash’s (TC) idea of allowing privacy but with the additions such as:
+Cross-chain functionallity 1 pool, 1 token, any amount. This idea was for the Chainlink hackathon 2025 and got me Top 5 for the Avalanche Track.
+My Idea # I was reading through the court hearings of one of the founders for TC, he had gotten a sentence of 5 years&#43; in the netherlands.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
-    <meta property="article:published_time" content="2025-12-04T18:42:58+01:00">
-    <meta property="article:modified_time" content="2025-12-04T18:42:58+01:00">
+    <meta property="article:published_time" content="2025-06-29T18:42:58+01:00">
+    <meta property="article:modified_time" content="2025-06-29T18:42:58+01:00">
 
 
 
@@ -114,22 +116,6 @@
 
         <p
             class="small ">
-            <a href="/posts" >
-                /posts
-            </a>
-        </p>
-        
-
-        <p
-            class="small ">
-            <a href="/projects" >
-                /projects
-            </a>
-        </p>
-        
-
-        <p
-            class="small ">
             <a href="/about" >
                 /about
             </a>
@@ -151,21 +137,21 @@
 
 
 <div class="breadcrumbs"><a href="/">Home</a><span class="breadcrumbs-separator">/</span><a href="/projects/">Projects</a><span class="breadcrumbs-separator">/</span>
-        <a href="/projects/edenprotocol/">EdenProtocol</a></div>
+        <a href="/projects/edenprotocol/">EdensProtocol</a></div>
 
 
 <div >
   <article>
     <header class="single-intro-container">
         
-        <h1 class="single-title">EdenProtocol</h1>
+        <h1 class="single-title">EdensProtocol</h1>
         
         <div class="single-subsummary">
           
           <div>
             
             <p class="single-date">
-              <time datetime="2025-12-04T18:42:58&#43;01:00">December 4, 2025</time>
+              <time datetime="2025-06-29T18:42:58&#43;01:00">June 29, 2025</time>
             </p>
           </div>
         </div>
@@ -173,7 +159,98 @@
     </header>
     
     <div class="single-content">
-      <p>Coming soon</p>
+      <h3 class="heading" id="summary">
+  Summary
+  <a class="anchor" href="#summary">#</a>
+</h3>
+<p>Eden&rsquo;s Protocol was a project based on Tornado Cash&rsquo;s (TC) idea of allowing privacy but with the additions such as:</p>
+<ul>
+<li>Cross-chain functionallity</li>
+<li>1 pool, 1 token, any amount.</li>
+</ul>
+<p>This idea was for the Chainlink hackathon 2025 and got me <a href="https://blog.chain.link/announcing-the-chainlink-chromion-hackathon-winners/">Top 5 for the Avalanche Track.</a></p>
+<h4 class="heading" id="my-idea">
+  My Idea
+  <a class="anchor" href="#my-idea">#</a>
+</h4>
+<p>I was reading through the court hearings of one of the founders for TC, he had gotten a sentence of 5 years+ in the netherlands.</p>
+<p>Did he deserve the sentence?</p>
+<p>In our society someone who facilitates bad money transfers will always be held accountable.</p>
+<p>The court case and reading through blogs from TC made me wonder of an idea of cross-chain functionality for the protocol, while i can say that i knew nothing about how &lsquo;decentralized&rsquo; the nodes that manage chainlink&rsquo;s CCIP were.I still went through with it as i have not seen this idea being built out atleast in the open.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    
+    
+      
+        <div class="img-container" style="--w: 2290; --h: 1054;">
+            <img loading="lazy" alt="Eden&rsquo;s Protocol" src="/projects/images/image.png" width="2290" height="1054">
+        </div>
+      
+    
+
+    
+</figure>
+</p>
+<p>Searching for the knowledge that was needed for creating this protocol made me find some pretty old videos of ZKroates that was an extension on Remix.
+While this gave some information, it was not enough to rewrite &amp; add the ideas i wanted to add.</p>
+<p>After searching further for videos/content and actually starting to build building the project,i thought about adding 1 pool per token.Which would be a bad case if there mainstream adoption of the protocol, but this was a hackathon which i could try new things and ideas.</p>
+<p>You might wondering why?
+When a user decides to deposit, the merkle tree will grow by size and as this acummulates to millions of deposits this can cause Denial of Service for some users.
+(Gas costs too high).</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span>    <span style="font-weight:bold;font-style:italic;text-decoration:underline">function</span> deposit(bytes32 _commitment, uint256 amount, uint256 fee)
+</span></span><span style="display:flex;"><span>        external
+</span></span><span style="display:flex;"><span>        payable
+</span></span><span style="display:flex;"><span>        nonReentrant
+</span></span><span style="display:flex;"><span>        returns (uint256 index)
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>        require(!commitments[_commitment], <span style="color:#666;font-style:italic">&#34;Commitment already submitted&#34;</span>);
+</span></span><span style="display:flex;"><span>        require(amount &gt; 0);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        uint256 index = _insert(_commitment);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        commitments[_commitment] = <span style="font-weight:bold;text-decoration:underline">true</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold;text-decoration:underline">if</span> (asset != address(0x0)) {
+</span></span><span style="display:flex;"><span>            IERC20(asset).safeTransferFrom(msg.sender, address(<span style="font-weight:bold;text-decoration:underline">this</span>), amount + fee);
+</span></span><span style="display:flex;"><span>            feeAccumulated += fee;
+</span></span><span style="display:flex;"><span>        } <span style="font-weight:bold;text-decoration:underline">else</span> {
+</span></span><span style="display:flex;"><span>            require(msg.value &gt;= amount + fee);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>            feeAccumulated += fee;
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        emit Deposited(_commitment, amount, index, 0, bytes32(0), asset);
+</span></span><span style="display:flex;"><span>    }
+</span></span></code></pre></div><p>That was not the only thing, funding the deposits by LP Pools (just as bridge protocols) do was one of the other additions i made. This would allow LP&rsquo;s to profit from deposits &amp; withdraws  essentially creating a system that could last, minus point would be their LP could be bridged to multiple other chains which might dissatisfy the LP holders.</p>
+<h1 class="heading" id="what-have-i-learned">
+  What have i learned?
+  <a class="anchor" href="#what-have-i-learned">#</a>
+</h1>
+<p>I would normally say i am grateful but after realizing and comparing my project to the winners, i feel like my idea was interesting enough..
+But the way i explained it was not nice towards a new user or a judge. As there were many other projects that explained their vision and idea much better than i did.</p>
+<p>While i would say adding the features such as depositng any amount and adding cross chain functionallity was nice , if no one can understand an idea why would it win a prize.
+I should be grateful enough by winning a prize, as truly i did not deserve anything as the way i explained was very rushed and skimmed over the <code>why</code>..</p>
+<p>I was working on the frontend and project itself until the end of the time, as this was my first time working at all with some js functionality (generating commitment hashs),
+verifiying it, Verifiying a proof went wrong as i could not really store the commitment made to build the merkle tree, as i had no knowledge on how a DB worked at that time.</p>
+<p>Overall i am grateful for the experience gained as this was my first ever hackathon.</p>
+<h3 class="heading" id="resources-and-links">
+  Resources and Links
+  <a class="anchor" href="#resources-and-links">#</a>
+</h3>
+<p><a href="https://github.com/plairfx/EdensProtocol-F">https://github.com/plairfx/EdensProtocol-F</a>
+<a href="https://github.com/plairfx/EdensProtocolFrontend">https://github.com/plairfx/EdensProtocolFrontend</a></p>
 
     </div>
   </article>
@@ -184,6 +261,35 @@
 
   
   
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flexnowrap">
+
+        <div class="single-pagination-prev">
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/projects/mugura/">
+                        Mugura
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
 
   
 

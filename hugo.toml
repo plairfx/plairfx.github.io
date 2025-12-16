@@ -19,9 +19,8 @@ colorPalette = 'base16-eighties'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hello'
+homeIntroTitle = 'Hi I am Plair,'
 homeIntroContent = """
-Hi I am Plair,
 
 I am Smart Contract Enigneer.
 
@@ -29,7 +28,8 @@ I am Smart Contract Enigneer.
 
 - Solidity
 - Foundry
-- Golang (Learning)
+- Golang 
+- Viem/Wagmi
 
 Feel free to contact me on any of the socials listed below.
 """

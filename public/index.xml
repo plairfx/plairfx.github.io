@@ -6,7 +6,22 @@
     <description>Recent content in Home on Plairfx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 13:27:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mugura</title>
+      <link>http://localhost:1313/projects/mugura/</link>
+      <pubDate>Mon, 24 Nov 2025 13:27:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/mugura/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;mugura-bridge-backend&#34;&gt;&#xA;  Mugura Bridge Backend&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mugura-bridge-backend&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Mugura is a simple bridge backend that allows you run a &lt;a href=&#34;https://geth.ethereum.org/docs/tools/clef/introduction&#34;&gt;Clef enviroment&lt;/a&gt; to sign tx&amp;rsquo;s/data safely and set some rules, while the idea was meant to be a simple backend that checks for events emitted by the contracts and fulfills those events.&lt;/p&gt;&#xA;&lt;p&gt;I had to learn several skills such as how to work with &lt;strong&gt;Docker&lt;/strong&gt; and &lt;strong&gt;databases (PostgreSQL &amp;amp; SQL)&lt;/strong&gt;, this made it possible to store these events inside a db and store the needed information if an event was not fulfilled instantly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EdensProtocol</title>
+      <link>http://localhost:1313/projects/edenprotocol/</link>
+      <pubDate>Sun, 29 Jun 2025 18:42:58 +0100</pubDate>
+      <guid>http://localhost:1313/projects/edenprotocol/</guid>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Eden&amp;rsquo;s Protocol was a project based on Tornado Cash&amp;rsquo;s (TC) idea of allowing privacy but with the additions such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cross-chain functionallity&lt;/li&gt;&#xA;&lt;li&gt;1 pool, 1 token, any amount.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This idea was for the Chainlink hackathon 2025 and got me &lt;a href=&#34;https://blog.chain.link/announcing-the-chainlink-chromion-hackathon-winners/&#34;&gt;Top 5 for the Avalanche Track.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;my-idea&#34;&gt;&#xA;  My Idea&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-idea&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;I was reading through the court hearings of one of the founders for TC, he had gotten a sentence of 5 years+ in the netherlands.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/about/</link>
