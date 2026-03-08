@@ -24,6 +24,11 @@ such as Solidity, Golang which brings out something more..
 - Docker
 - PostgresSQL
 
+---- dabble sometimes with...
+
+- Viem
+- Wagmi
+
 # Hackathons
 
 - [Chainlink Convergence Hackathon 2026 ](https://github.com/plairfx/PFX)
