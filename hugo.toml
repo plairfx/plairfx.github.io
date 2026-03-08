@@ -22,16 +22,22 @@ hideHeader = false
 homeIntroTitle = 'Hi I am Plair,'
 homeIntroContent = """
 
-I am Smart Contract Enigneer.
+I am Blockchain Developer that loves building projects, from random ideas of open-source-platforms to Forex inspired projects.
+I enjoy participating in hackathons and improving my skils.
+
+
 
 # Tech Stack
 
 - Solidity
 - Foundry
 - Golang 
-- Viem/Wagmi
+- Docker
+- PostgresSQL
+
 
 Feel free to contact me on any of the socials listed below.
+
 """
 
 # Collection to display on home
