@@ -1,6 +1,6 @@
 +++
 date = '2025-06-29T18:42:58+01:00'
-title = 'EdensProtocol'
+title = 'EdensProtocol (Chainlink Hackathon 2025) (Top 5 Avalanche Track).'
 draft = false
 +++
 

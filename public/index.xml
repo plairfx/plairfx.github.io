@@ -6,17 +6,10 @@
     <description>Recent content in Home on Plairfx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 13:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 18:42:58 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mugura</title>
-      <link>http://localhost:1313/projects/mugura/</link>
-      <pubDate>Mon, 24 Nov 2025 13:27:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/mugura/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;mugura-bridge-backend&#34;&gt;&#xA;  Mugura Bridge Backend&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mugura-bridge-backend&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Mugura is a simple bridge backend that allows you run a &lt;a href=&#34;https://geth.ethereum.org/docs/tools/clef/introduction&#34;&gt;Clef enviroment&lt;/a&gt; to sign tx&amp;rsquo;s/data safely and set some rules, while the idea was meant to be a simple backend that checks for events emitted by the contracts and fulfills those events.&lt;/p&gt;&#xA;&lt;p&gt;I had to learn several skills such as how to work with &lt;strong&gt;Docker&lt;/strong&gt; and &lt;strong&gt;databases (PostgreSQL &amp;amp; SQL)&lt;/strong&gt;, this made it possible to store these events inside a db and store the needed information if an event was not fulfilled instantly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EdensProtocol</title>
+      <title>EdensProtocol (Chainlink Hackathon 2025) (Top 5 Avalanche Track).</title>
       <link>http://localhost:1313/projects/edenprotocol/</link>
       <pubDate>Sun, 29 Jun 2025 18:42:58 +0100</pubDate>
       <guid>http://localhost:1313/projects/edenprotocol/</guid>
@@ -27,7 +20,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I started my web3 journey through Cyfrin Updraft, which first&#xA;started me by learning some javascript/solidity. This introducted me&#xA;to a concept i have not really seen which was auditing.&lt;/p&gt;&#xA;&lt;p&gt;While i understood the basics web3 security and gotten some basic findings in audit contests,&#xA;i never really enjoyed it/felt attracted doing it every single day.&lt;/p&gt;&#xA;&lt;p&gt;That finally changed with choosing to go build things instead of auditing them.&#xA;Which brings me to this present moment building and learning with languages&#xA;such as Solidity, Golang which brings out something more..&lt;/p&gt;</description>
+      <description>&lt;p&gt;I started my &lt;strong&gt;Dev/Web3&lt;/strong&gt; journey through &lt;strong&gt;Cyfrin Updraft&lt;/strong&gt;, which&#xA;started by simply learning the basics javascript/solidity.&lt;/p&gt;&#xA;&lt;p&gt;Currently i am participating/building in the space with &lt;strong&gt;0xfx.exchange&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;tech-stack&#34;&gt;&#xA;  Tech Stack&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tech-stack&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidity&lt;/li&gt;&#xA;&lt;li&gt;Foundry&lt;/li&gt;&#xA;&lt;li&gt;Golang&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;PostgresSQL&lt;/li&gt;&#xA;&lt;li&gt;Svelte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;hackathons&#34;&gt;&#xA;  Hackathons&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hackathons&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/PFX&#34;&gt;Chainlink Convergence Hackathon 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://devfolio.co/projects/edenprotocol-9f54&#34;&gt;EdenProtocol Chainlink Hackathon 2025(Top 5 Avalanche Track).&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SamAg19/PulseBridge&#34;&gt;PulseBridge EthOnline 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project&#34;&gt;Openleaf Octant Hackathon 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

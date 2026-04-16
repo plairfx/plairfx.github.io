@@ -22,18 +22,17 @@ hideHeader = false
 homeIntroTitle = 'Hi I am Plair,'
 homeIntroContent = """
 
-I am Blockchain Developer that loves building projects, from random ideas of open-source-platforms to Forex inspired projects.
-I enjoy participating in hackathons and improving my skils.
-
+I am Blockchain/Smart Contract Developer, currently building **0xfx.exchange**.
 
 
 # Tech Stack
 
 - Solidity
 - Foundry
-- Golang 
+- Golang
 - Docker
 - PostgresSQL
+- Svelte
 
 
 Feel free to contact me on any of the socials listed below.
@@ -41,7 +40,7 @@ Feel free to contact me on any of the socials listed below.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Projects'
+homeCollectionTitle = 'Projects & Hackathon Projects'
 homeCollection = 'projects'
 
 

@@ -1,7 +1,7 @@
 +++
 date = '2025-11-24T13:27:00+01:00'
 title = 'Mugura'
-draft = false
+draft = true
 +++
 # Mugura Bridge Backend
 

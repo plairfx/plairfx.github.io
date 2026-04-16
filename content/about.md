@@ -5,16 +5,11 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-I started my web3 journey through Cyfrin Updraft, which first
-started me by learning some javascript/solidity. This introducted me
-to a concept i have not really seen which was auditing.
+I started my **Dev/Web3** journey through **Cyfrin Updraft**, which 
+started by simply learning the basics javascript/solidity. 
 
-While i understood the basics web3 security and gotten some basic findings in audit contests,
-i never really enjoyed it/felt attracted doing it every single day.
 
-That finally changed with choosing to go build things instead of auditing them.
-Which brings me to this present moment building and learning with languages
-such as Solidity, Golang which brings out something more..
+Currently i am participating/building in the space with **0xfx.exchange**.
 
 # Tech Stack
 
@@ -23,15 +18,11 @@ such as Solidity, Golang which brings out something more..
 - Golang
 - Docker
 - PostgresSQL
-
----- dabble sometimes with...
-
-- Viem
-- Wagmi
+- Svelte
 
 # Hackathons
 
-- [Chainlink Convergence Hackathon 2026 ](https://github.com/plairfx/PFX)
+- [Chainlink Convergence Hackathon 2026](https://github.com/plairfx/PFX)
 - [EdenProtocol Chainlink Hackathon 2025(Top 5 Avalanche Track).](https://devfolio.co/projects/edenprotocol-9f54)
 - [PulseBridge EthOnline 2025](https://github.com/SamAg19/PulseBridge)
 - [Openleaf Octant Hackathon 2025](https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project)

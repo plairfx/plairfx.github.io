@@ -6,17 +6,10 @@
     <description>Recent content in Projects on Plairfx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 13:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 18:42:58 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mugura</title>
-      <link>http://localhost:1313/projects/mugura/</link>
-      <pubDate>Mon, 24 Nov 2025 13:27:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/mugura/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;mugura-bridge-backend&#34;&gt;&#xA;  Mugura Bridge Backend&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mugura-bridge-backend&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Mugura is a simple bridge backend that allows you run a &lt;a href=&#34;https://geth.ethereum.org/docs/tools/clef/introduction&#34;&gt;Clef enviroment&lt;/a&gt; to sign tx&amp;rsquo;s/data safely and set some rules, while the idea was meant to be a simple backend that checks for events emitted by the contracts and fulfills those events.&lt;/p&gt;&#xA;&lt;p&gt;I had to learn several skills such as how to work with &lt;strong&gt;Docker&lt;/strong&gt; and &lt;strong&gt;databases (PostgreSQL &amp;amp; SQL)&lt;/strong&gt;, this made it possible to store these events inside a db and store the needed information if an event was not fulfilled instantly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EdensProtocol</title>
+      <title>EdensProtocol (Chainlink Hackathon 2025) (Top 5 Avalanche Track).</title>
       <link>http://localhost:1313/projects/edenprotocol/</link>
       <pubDate>Sun, 29 Jun 2025 18:42:58 +0100</pubDate>
       <guid>http://localhost:1313/projects/edenprotocol/</guid>
