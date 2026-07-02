@@ -1,26 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Plairfx</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Plairfx</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 18:42:58 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EdensProtocol (Chainlink Hackathon 2025) (Top 5 Avalanche Track).</title>
-      <link>http://localhost:1313/projects/edenprotocol/</link>
-      <pubDate>Sun, 29 Jun 2025 18:42:58 +0100</pubDate>
-      <guid>http://localhost:1313/projects/edenprotocol/</guid>
-      <description>&lt;h3 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Eden&amp;rsquo;s Protocol was a project based on Tornado Cash&amp;rsquo;s (TC) idea of allowing privacy but with the additions such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cross-chain functionallity&lt;/li&gt;&#xA;&lt;li&gt;1 pool, 1 token, any amount.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This idea was for the Chainlink hackathon 2025 and got me &lt;a href=&#34;https://blog.chain.link/announcing-the-chainlink-chromion-hackathon-winners/&#34;&gt;Top 5 for the Avalanche Track.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;my-idea&#34;&gt;&#xA;  My Idea&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-idea&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;I was reading through the court hearings of one of the founders for TC, he had gotten a sentence of 5 years+ in the netherlands.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I started my &lt;strong&gt;Dev/Web3&lt;/strong&gt; journey through &lt;strong&gt;Cyfrin Updraft&lt;/strong&gt;, which&#xA;started by simply learning the basics javascript/solidity.&lt;/p&gt;&#xA;&lt;p&gt;Currently i am participating/building in the space with &lt;strong&gt;0xfx.exchange&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;tech-stack&#34;&gt;&#xA;  Tech Stack&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tech-stack&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidity&lt;/li&gt;&#xA;&lt;li&gt;Foundry&lt;/li&gt;&#xA;&lt;li&gt;Golang&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;PostgresSQL&lt;/li&gt;&#xA;&lt;li&gt;Svelte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;hackathons&#34;&gt;&#xA;  Hackathons&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hackathons&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/PFX&#34;&gt;Chainlink Convergence Hackathon 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://devfolio.co/projects/edenprotocol-9f54&#34;&gt;EdenProtocol Chainlink Hackathon 2025(Top 5 Avalanche Track).&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SamAg19/PulseBridge&#34;&gt;PulseBridge EthOnline 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project&#34;&gt;Openleaf Octant Hackathon 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on Plairfx</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Plairfx</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 20 Jun 2026 18:42:58 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Forward Contracts Platform (Arbitirum Openhouse Buildathon)</title>
+				<link>http://localhost:1313/projects/forwardcontracts/</link>
+				<pubDate>Sat, 20 Jun 2026 18:42:58 +0100</pubDate>
+				<guid>http://localhost:1313/projects/forwardcontracts/</guid>
+				<description>&lt;h3 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This was a simple idea of bringing the &lt;a href=&#34;https://www.investopedia.com/terms/f/forwardcontract.asp&#34;&gt;Forward Contracts&lt;/a&gt; in the real world (EUR -&amp;gt; USD @1.175 at 31th july), in web3. Which would allow users to lock in rates for their assets to mitigate risk or even stay longer in the web3 world.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;links&#34;&gt;&#xA;  Links&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#links&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/0xfx-Arbitirum-OpenHouse-London-Hackathon&#34;&gt;https://github.com/plairfx/0xfx-Arbitirum-OpenHouse-London-Hackathon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>OpenLeaf (Octant Hackahton)</title>
+				<link>http://localhost:1313/projects/openleaf/</link>
+				<pubDate>Mon, 10 Nov 2025 18:42:58 +0100</pubDate>
+				<guid>http://localhost:1313/projects/openleaf/</guid>
+				<description>&lt;h3 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;links&#34;&gt;&#xA;  Links&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#links&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project&#34;&gt;https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>EdensProtocol (Chainlink Hackathon 2025) (Top 5 Avalanche Track).</title>
+				<link>http://localhost:1313/projects/edenprotocol/</link>
+				<pubDate>Sun, 29 Jun 2025 18:42:58 +0100</pubDate>
+				<guid>http://localhost:1313/projects/edenprotocol/</guid>
+				<description>&lt;h3 class=&#34;heading&#34; id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Eden&amp;rsquo;s Protocol was a project based on Tornado Cash&amp;rsquo;s (TC) idea of allowing privacy but with the additions such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cross-chain functionallity&lt;/li&gt;&#xA;&lt;li&gt;1 pool, 1 token, any amount.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This idea was for the Chainlink hackathon 2025 and got me &lt;a href=&#34;https://blog.chain.link/announcing-the-chainlink-chromion-hackathon-winners/&#34;&gt;Top 5 for the Avalanche Track.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;my-idea&#34;&gt;&#xA;  My Idea&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-idea&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;I was reading through the court hearings of one of the founders for TC, he had gotten a sentence of 5 years+ in the netherlands.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About me</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;I started my &lt;strong&gt;Dev/Web3&lt;/strong&gt; journey through &lt;strong&gt;Cyfrin Updraft&lt;/strong&gt;, which&#xA;started by simply learning the basics javascript/solidity.&lt;/p&gt;&#xA;&lt;p&gt;Currently i am participating/building in the space with &lt;strong&gt;0xfx.exchange&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;tech-stack&#34;&gt;&#xA;  Tech Stack&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tech-stack&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solidity&lt;/li&gt;&#xA;&lt;li&gt;Foundry&lt;/li&gt;&#xA;&lt;li&gt;Golang&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;PostgresSQL&lt;/li&gt;&#xA;&lt;li&gt;Svelte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 class=&#34;heading&#34; id=&#34;hackathons&#34;&gt;&#xA;  Hackathons&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hackathons&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/PFX&#34;&gt;Chainlink Convergence Hackathon 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://devfolio.co/projects/edenprotocol-9f54&#34;&gt;EdenProtocol Chainlink Hackathon 2025(Top 5 Avalanche Track).&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SamAg19/PulseBridge&#34;&gt;PulseBridge EthOnline 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/plairfx/OpenLeaf-Octant-Hackathon-Project&#34;&gt;Openleaf Octant Hackathon 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Blog</title>
+				<link>http://localhost:1313/blog/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Creating..&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -34,13 +34,12 @@ I am Blockchain/Smart Contract Developer, currently building **0xfx.exchange**.
 - PostgresSQL
 - Svelte
 
-
 Feel free to contact me on any of the socials listed below.
 
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Projects & Hackathon Projects'
+homeCollectionTitle = 'Projects'
 homeCollection = 'projects'
 
 
@@ -79,6 +78,10 @@ url = "/"
 [[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "blog"
+url = "/blog"
 
 # Syntax highlight on code blocks
 [markup]
